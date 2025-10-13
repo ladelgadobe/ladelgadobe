@@ -36,9 +36,9 @@ My dissertation research focuses on developing a framework to guide the selectio
 ### 📫 Connections
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/laura-delgado-bejarano-09b6681a2/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+</a>
   <a href="http://lattes.cnpq.br/0294343140873583" target="blank">
     <img src="https://img.shields.io/badge/Curriculum-Lattes-blue?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes CV"/>
   </a>
