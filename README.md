@@ -1,4 +1,8 @@
-## Hi there, my name is Laura Delgado Bejarano🌱
+<p align="center">
+  <img src="https://github.com/ladelgadobe/ladelgadobe/blob/main/banner.jpg?raw=true" alt="Banner Precision Agriculture" width="100%"/>
+</p>
+
+## Hi, my name is Laura Delgado Bejarano🌱
 
 I am an **Agricultural Engineer** from the **National University of Colombia** and currently a **Master's candidate** in Agricultural Engineering at the **University of Campinas (UNICAMP)**, specializing in Digital Agriculture and Precision Agriculture
 
