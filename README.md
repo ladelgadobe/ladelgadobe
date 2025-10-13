@@ -6,7 +6,10 @@
 
 ## Hi, my name is Laura Delgado Bejarano🌱
 
-I am an **Agricultural Engineer** from the **National University of Colombia** and currently a **Master's candidate** in Agricultural Engineering at the **University of Campinas (UNICAMP)**, specializing in Digital Agriculture and Precision Agriculture
+
+I am an **Agricultural Engineer** from the **National University of Colombia** <img src="https://flagcdn.com/w20/co.png" width="20"/> and currently a **Master's candidate** in Agricultural Engineering at **University of Campinas (UNICAMP)** <img src="https://flagcdn.com/w20/br.png" width="20"/> , specializing in Digital Agriculture and Precision Agriculture
+
+
 
 
 My dissertation research focuses on developing a framework to guide the selection of spatial interpolation methods in digital soil mapping. This project addresses the challenges posed by varying soil sampling densities, aiming to enhance the accuracy of soil maps and improve decision-making for variable-rate fertilizer applications.
