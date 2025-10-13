@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/ladelgadobe/ladelgadobe/blob/main/banner.jpg?raw=true" alt="Banner Precision Agriculture" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ladelgadobe/ladelgadobe/main/banner.jpg" 
+       alt="Banner Precision Agriculture" width="100%"/>
 </p>
+
 
 ## Hi, my name is Laura Delgado Bejarano🌱
 
