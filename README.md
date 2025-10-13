@@ -44,10 +44,16 @@ My dissertation research focuses on developing a framework to guide the selectio
   </a>
 </p>
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ladelgadobe/ladelgadobe/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Snake animation" src="https://github.com/ladelgadobe/ladelgadobe/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+<p align="center">
   <a href="https://github.com/ladelgadobe">
     <img src="https://github-readme-stats.vercel.app/api?username=ladelgadobe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/YOUR-USERNAME">
+  <a href="https://github.com/ladelgadobe">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladelgadobe&layout=compact&theme=dracula"/>
   </a>
 </p>
