@@ -7,7 +7,7 @@
 ## Hi, my name is Laura Delgado Bejarano🌱
 
 
-I am an **Agricultural Engineer** from the **National University of Colombia** <img src="https://flagcdn.com/w20/co.png" width="20"/> and Msc. in Agricultural Engineering at **University of Campinas (UNICAMP)** in Digital Agriculture area <img src="https://flagcdn.com/w20/br.png" width="20"/> , currently i am a  **PhD's candidate** alsto at UNICMAP  <img src="https://flagcdn.com/w20/br.png" width="20"/> , specializing in Digital Agriculture and Precision Agriculture
+I am an **Agricultural Engineer** from the **National University of Colombia** <img src="https://flagcdn.com/w20/co.png" width="20"/> and Msc. in Agricultural Engineering at **University of Campinas (UNICAMP)** in Digital Agriculture area <img src="https://flagcdn.com/w20/br.png" width="20"/> , currently i am a  **PhD's candidate** alsto at UNICAMP  <img src="https://flagcdn.com/w20/br.png" width="20"/> , specializing in Digital Agriculture and Precision Agriculture
 
 
 
