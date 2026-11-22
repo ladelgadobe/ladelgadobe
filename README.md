@@ -95,6 +95,12 @@ I developed **Best Fit Interpolator**, an open-source **QGIS plugin** designed t
 [**GitHub Repository**](https://github.com/ladelgadobe/BestFitInterpolation) ·
 [**QGIS Plugin Repository**](https://plugins.qgis.org/plugins/bestfitinterpolator/)
 
+[**Reference article**](https://doi.org/10.1007/s11119-025-10311-8) ·
+[**Plugin article**](https://doi.org/10.1016/j.softx.2026.103252)
+
+[![Reference Article](https://img.shields.io/badge/Reference%20Article-Precision%20Agriculture-1B5E20?style=flat-square)](https://doi.org/10.1007/s11119-025-10311-8)
+[![Plugin Article](https://img.shields.io/badge/Plugin%20Article-SoftwareX-0077B6?style=flat-square)](https://doi.org/10.1016/j.softx.2026.103252)
+
 </td>
 
 </tr>
@@ -103,6 +109,19 @@ I developed **Best Fit Interpolator**, an open-source **QGIS plugin** designed t
 ---
 
 ## 📄 Selected Publications
+
+### Best Fit Interpolator: a QGIS decision-support plugin for comparing, validating, and applying spatial interpolation methods
+
+**Laura Delgado Bejarano** & Lucas Rios do Amaral
+
+*SoftwareX*, 36, Article 103252, 2026
+
+Main reference for the **Best Fit Interpolator** plugin.
+
+[**Plugin article**](https://doi.org/10.1016/j.softx.2026.103252) ·
+[**GitHub Repository**](https://github.com/ladelgadobe/BestFitInterpolation)
+
+---
 
 ### Performance of interpolation methods in digital soil mapping: the influence of data characteristics
 
